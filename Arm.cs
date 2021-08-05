@@ -19,7 +19,8 @@ namespace Higler
         POSITION_GET = 'E',
         LIQUIDLEVEL_DETECT='j',
         STOP = 'K',
-        ReleaseMotor = 'a'
+        ReleaseMotor = 'a',
+                ReleaseMotor = 'w'
     }
 
     /// <summary>
